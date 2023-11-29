@@ -11,12 +11,100 @@
         android:layout_width="507dp"
         android:layout_height="933dp"
         android:adjustViewBounds="false"
-        android:background="#23FFFFFF"
+        android:background="#1E000000"
         android:backgroundTint="#33FFFFFF"
         android:cropToPadding="false"
         app:srcCompat="@drawable/s"
         tools:layout_editor_absoluteX="-42dp"
         tools:layout_editor_absoluteY="-73dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="382dp"
+        android:layout_height="94dp"
+        android:backgroundTint="#B0737373"
+        android:text=""
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="108dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="382dp"
+        android:layout_height="94dp"
+        android:backgroundTint="#B0737373"
+        android:text=""
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="226dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="59dp"
+        android:layout_height="67dp"
+        tools:layout_editor_absoluteX="68dp"
+        tools:layout_editor_absoluteY="242dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="225dp"
+        android:layout_height="43dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Profesor 2"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="226dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="225dp"
+        android:layout_height="40dp"
+        android:text=" Último mensaje"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="269dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="382dp"
+        android:layout_height="94dp"
+        android:backgroundTint="#B0737373"
+        android:text=""
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="471dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="225dp"
+        android:layout_height="40dp"
+        android:text=" Último mensaje"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="514dp" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="225dp"
+        android:layout_height="43dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Profesor 4"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="471dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="59dp"
+        android:layout_height="67dp"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="487dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="382dp"
+        android:layout_height="94dp"
+        android:backgroundTint="#B0737373"
+        android:text=""
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="598dp" />
 
     <ImageView
         android:id="@+id/imageView12"
@@ -78,20 +166,21 @@
         tools:layout_editor_absoluteX="167dp"
         tools:layout_editor_absoluteY="598dp" />
 
-    <ImageView
-        android:id="@+id/imageView5"
-        android:layout_width="59dp"
-        android:layout_height="67dp"
-        tools:layout_editor_absoluteX="68dp"
-        tools:layout_editor_absoluteY="472dp"
-        tools:srcCompat="@tools:sample/avatars" />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="382dp"
+        android:layout_height="94dp"
+        android:backgroundTint="#B0737373"
+        android:text=""
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="352dp" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/imageView3"
         android:layout_width="59dp"
         android:layout_height="67dp"
         tools:layout_editor_absoluteX="68dp"
-        tools:layout_editor_absoluteY="226dp"
+        tools:layout_editor_absoluteY="368dp"
         tools:srcCompat="@tools:sample/avatars" />
 
     <EditText
@@ -102,17 +191,7 @@
         android:inputType="text"
         android:text="Profesor 3"
         tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="325dp" />
-
-    <EditText
-        android:id="@+id/editTextText3"
-        android:layout_width="225dp"
-        android:layout_height="43dp"
-        android:ems="10"
-        android:inputType="text"
-        android:text="Profesor 2"
-        tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="210dp" />
+        tools:layout_editor_absoluteY="352dp" />
 
     <TextView
         android:id="@+id/textView2"
@@ -120,31 +199,7 @@
         android:layout_height="40dp"
         android:text=" Último mensaje"
         tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="368dp" />
-
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="59dp"
-        android:layout_height="67dp"
-        tools:layout_editor_absoluteX="68dp"
-        tools:layout_editor_absoluteY="341dp"
-        tools:srcCompat="@tools:sample/avatars" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="225dp"
-        android:layout_height="40dp"
-        android:text=" Último mensaje"
-        tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="253dp" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="225dp"
-        android:layout_height="40dp"
-        android:text=" Último mensaje"
-        tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="499dp" />
+        tools:layout_editor_absoluteY="395dp" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -153,16 +208,6 @@
         tools:layout_editor_absoluteX="68dp"
         tools:layout_editor_absoluteY="124dp"
         tools:srcCompat="@tools:sample/avatars" />
-
-    <EditText
-        android:id="@+id/editTextText4"
-        android:layout_width="225dp"
-        android:layout_height="43dp"
-        android:ems="10"
-        android:inputType="text"
-        android:text="Profesor 4"
-        tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="456dp" />
 
     <EditText
         android:id="@+id/editTextText"
@@ -179,7 +224,7 @@
         android:layout_width="47dp"
         android:layout_height="46dp"
         app:srcCompat="@drawable/back"
-        tools:layout_editor_absoluteX="383dp"
+        tools:layout_editor_absoluteX="364dp"
         tools:layout_editor_absoluteY="16dp" />
 
     <ImageView
