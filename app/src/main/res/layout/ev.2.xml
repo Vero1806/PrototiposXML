@@ -204,13 +204,13 @@
 
     <Button
         android:id="@+id/button13"
-        android:layout_width="381dp"
-        android:layout_height="612dp"
+        android:layout_width="391dp"
+        android:layout_height="584dp"
         android:backgroundTint="#D2D2D2"
         android:text=""
         app:cornerRadius="20dp"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="59dp" />
+        tools:layout_editor_absoluteY="98dp" />
 
     <EditText
         android:id="@+id/editTextText7"
@@ -220,16 +220,7 @@
         android:inputType="text"
         android:text="Título del evento"
         tools:layout_editor_absoluteX="171dp"
-        tools:layout_editor_absoluteY="85dp" />
-
-    <TextView
-        android:id="@+id/textView14"
-        android:layout_width="344dp"
-        android:layout_height="217dp"
-        android:backgroundTint="#FFFFFF"
-        android:text="Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, &quot;consecteur&quot;, en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de &quot;de Finnibus Bonorum et Malorum&quot;"
-        tools:layout_editor_absoluteX="31dp"
-        tools:layout_editor_absoluteY="433dp" />
+        tools:layout_editor_absoluteY="118dp" />
 
     <TextView
         android:id="@+id/textView8"
@@ -238,23 +229,32 @@
         android:backgroundTint="#FFFFFF"
         android:text="Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Es un hecho establecido hace."
         tools:layout_editor_absoluteX="171dp"
-        tools:layout_editor_absoluteY="132dp" />
+        tools:layout_editor_absoluteY="165dp" />
 
     <TextView
         android:id="@+id/textView12"
-        android:layout_width="342dp"
-        android:layout_height="221dp"
+        android:layout_width="357dp"
+        android:layout_height="220dp"
         android:backgroundTint="#FFFFFF"
         android:text="Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas &quot;Letraset&quot;, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum."
         tools:layout_editor_absoluteX="33dp"
-        tools:layout_editor_absoluteY="211dp" />
+        tools:layout_editor_absoluteY="244dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="353dp"
+        android:layout_height="228dp"
+        android:backgroundTint="#FFFFFF"
+        android:text="Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, &quot;consecteur&quot;, en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de &quot;de Finnibus Bonorum et Malorum&quot;"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="455dp" />
 
     <ImageView
         android:id="@+id/imageView14"
         android:layout_width="143dp"
         android:layout_height="121dp"
         tools:layout_editor_absoluteX="24dp"
-        tools:layout_editor_absoluteY="85dp"
+        tools:layout_editor_absoluteY="118dp"
         tools:srcCompat="@drawable/paisaje" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
