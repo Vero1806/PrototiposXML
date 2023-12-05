@@ -33,7 +33,7 @@
         android:layout_height="486dp"
         android:backgroundTint="#D2D2D2"
         android:text=""
-        app:cornerRadius = "20dp"
+        app:cornerRadius="20dp"
         tools:layout_editor_absoluteX="14dp"
         tools:layout_editor_absoluteY="217dp" />
 
@@ -43,7 +43,7 @@
         android:layout_height="106dp"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="217dp"
-        tools:srcCompat="@drawable/Captura" />
+        tools:srcCompat="@drawable/captura" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -51,7 +51,7 @@
         android:layout_height="106dp"
         tools:layout_editor_absoluteX="13dp"
         tools:layout_editor_absoluteY="294dp"
-        tools:srcCompat="@drawable/Captura" />
+        tools:srcCompat="@drawable/captura" />
 
     <ImageView
         android:id="@+id/imageView15"
@@ -59,7 +59,7 @@
         android:layout_height="89dp"
         tools:layout_editor_absoluteX="181dp"
         tools:layout_editor_absoluteY="378dp"
-        tools:srcCompat="@drawable/Captura2" />
+        tools:srcCompat="@drawable/captura2" />
 
     <ImageView
         android:id="@+id/imageView16"
@@ -67,7 +67,7 @@
         android:layout_height="89dp"
         tools:layout_editor_absoluteX="181dp"
         tools:layout_editor_absoluteY="548dp"
-        tools:srcCompat="@drawable/Captura2" />
+        tools:srcCompat="@drawable/captura2" />
 
     <ImageView
         android:id="@+id/imageView13"
@@ -75,7 +75,7 @@
         android:layout_height="106dp"
         tools:layout_editor_absoluteX="14dp"
         tools:layout_editor_absoluteY="461dp"
-        tools:srcCompat="@drawable/Captura" />
+        tools:srcCompat="@drawable/captura" />
 
     <ImageView
         android:id="@+id/imageView7"

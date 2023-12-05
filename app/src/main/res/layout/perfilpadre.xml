@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="469dp"
+        android:layout_height="927dp"
+        android:layout_marginBottom="100dp"
+        android:alpha="100"
+        android:background="#B3FFFFFF"
+        android:backgroundTint="#B3FFFFFF"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-38dp"
+        tools:srcCompat="@drawable/s"
+        tools:visibility="visible" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="245dp"
+        android:layout_height="105dp"
+        android:backgroundTint="#D2D2D2"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="61dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="143dp"
+        android:layout_height="140dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="77dp"
+        tools:srcCompat="@drawable/perfil" />
+
+    <TextView
+        android:id="@+id/Datos"
+        android:layout_width="118dp"
+        android:layout_height="30dp"
+        android:text="Datos"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="47dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="208dp"
+        android:layout_height="211dp"
+        app:srcCompat="@drawable/logo_1"
+        tools:layout_editor_absoluteX="-70dp"
+        tools:layout_editor_absoluteY="-46dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="221dp"
+        android:layout_height="34dp"
+        android:text="Profesor: Manolito gafotas"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="77dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="222dp"
+        android:layout_height="34dp"
+        android:text="Cursos: 2ª DAM, 1ªSMR"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="101dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edad: 3/11/1989"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="127dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/calendario"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="135dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="134dp"
+        android:layout_height="49dp"
+        android:backgroundTint="#673AB7"
+        android:text="Eventos"
+        android:textColor="#070707"
+        app:iconTint="#DD0D0D"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="459dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="91dp"
+        android:layout_height="39dp"
+        android:backgroundTint="#FF9800"
+        android:text="Ayuda"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#020202"
+        app:iconTint="#000000"
+        app:rippleColor="#000000"
+        app:strokeColor="#090909"
+        tools:layout_editor_absoluteX="301dp"
+        tools:layout_editor_absoluteY="12dp" />
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="309dp"
+        android:layout_height="275dp"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="498dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
