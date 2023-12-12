@@ -55,11 +55,18 @@
         tools:layout_editor_absoluteY="685dp" />
 
     <ImageView
-        android:id="@+id/imageView14"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/log2"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="204dp" />
+            android:id="@+id/imageView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/log2"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="204dp"/>
+    <TextView
+            android:id="@+id/textView13"
+            android:layout_width="216dp"
+            android:layout_height="23dp"
+            android:text=" Email"
+            tools:layout_editor_absoluteX="62dp"
+            tools:layout_editor_absoluteY="419dp" android:backgroundTint="#FFFFFF" android:background="#FFFFFF"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
