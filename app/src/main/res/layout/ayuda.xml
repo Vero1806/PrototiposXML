@@ -146,7 +146,7 @@
         android:id="@+id/textView6"
         android:layout_width="307dp"
         android:layout_height="38dp"
-        android:text="¿Que es la ventana de eventos?"
+        android:text="¿Qué es la ventana de eventos?"
         android:textColor="#000000"
         android:textColorHighlight="#0C0C0C"
         android:textColorHint="#000000"
@@ -190,7 +190,7 @@
         android:id="@+id/multiAutoCompleteTextView"
         android:layout_width="365dp"
         android:layout_height="148dp"
-        android:text="Es una ventana emergente donde se aplicará dicho evento en el día marcado. Esta ventana mostrará una imagen orientativa de dicho evento con una descripción de dicha actividad."
+        android:text="Es una ventana emergente donde podemos ver el evento seleccionado y su fecha. Esta ventana mostrará una imagen orientativa de dicho evento con una descripción de la actividad que se va a realizar."
         tools:layout_editor_absoluteX="23dp"
         tools:layout_editor_absoluteY="134dp" />
 
@@ -206,9 +206,9 @@
         android:id="@+id/multiAutoCompleteTextView3"
         android:layout_width="357dp"
         android:layout_height="152dp"
-        android:text="Si pierdes la contraseña, lo que tienes que hacer es, al momento de iniciar sesión en la aplicación, seleccionar la opción 'Olvidé la contraseña'. Luego, ingresa el correo electrónico con el que te registraste y se te restablecerá la contraseña"
+        android:text="Si pierdes la contraseña, lo que tienes que hacer es, al momento de iniciar sesión en la aplicación, seleccionar la opción 'He olvidado mi contraseña'. Luego, ingresar el correo electrónico con el que te registraste y se enviará un mensaje al servicio técnico."
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="505dp" />
+        tools:layout_editor_absoluteY="506dp" />
 
     <TextView
         android:id="@+id/textView5"

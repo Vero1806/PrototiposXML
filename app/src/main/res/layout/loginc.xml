@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFFFFF"
     tools:context=".MainActivity">
 
     <ImageView
@@ -69,5 +70,16 @@
         app:srcCompat="@drawable/loginc"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="336dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="205dp"
+        android:layout_height="40dp"
+        android:background="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:text="       Por favor compruebe sus \n                   credenciales"
+        android:textColor="#FD0000"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="437dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

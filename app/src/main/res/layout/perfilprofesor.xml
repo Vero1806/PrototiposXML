@@ -32,7 +32,7 @@
         android:layout_height="140dp"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="77dp"
-        tools:srcCompat="@drawable/perfil" />
+        tools:srcCompat="@drawable/perfilprofesor" />
 
     <TextView
         android:id="@+id/Datos"
@@ -54,7 +54,7 @@
         android:id="@+id/textView2"
         android:layout_width="221dp"
         android:layout_height="34dp"
-        android:text="Profesor: Jose Antonio Padillo Toril"
+        android:text="Profesor: Manolito Gafotas"
         tools:layout_editor_absoluteX="174dp"
         tools:layout_editor_absoluteY="77dp" />
 
@@ -62,7 +62,7 @@
         android:id="@+id/textView3"
         android:layout_width="222dp"
         android:layout_height="34dp"
-        android:text="Cursos: 2ª DAM"
+        android:text="Cursos: 1 E.S.O. y 2 E.S.O."
         tools:layout_editor_absoluteX="173dp"
         tools:layout_editor_absoluteY="101dp" />
 
@@ -70,7 +70,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Edad: 18/07/1999"
+        android:text="Edad: 30/01/1986"
         tools:layout_editor_absoluteX="173dp"
         tools:layout_editor_absoluteY="127dp" />
 
