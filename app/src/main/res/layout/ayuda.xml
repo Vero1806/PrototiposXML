@@ -62,7 +62,7 @@
         android:id="@+id/textView3"
         android:layout_width="222dp"
         android:layout_height="34dp"
-        android:text="Cursos: 2ª DAM"
+        android:text="Currsos: 2ª DAM"
         tools:layout_editor_absoluteX="173dp"
         tools:layout_editor_absoluteY="101dp" />
 
@@ -70,7 +70,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Edad: 18/07/1999"
+        android:text="Edad: 18\07/3999"
         tools:layout_editor_absoluteX="173dp"
         tools:layout_editor_absoluteY="127dp" />
 
@@ -87,7 +87,7 @@
         android:layout_width="134dp"
         android:layout_height="49dp"
         android:backgroundTint="#3F51B5"
-        android:text="Eventos"
+        android:text="Erventos"
         app:iconTint="#DD0D0D"
         tools:layout_editor_absoluteX="39dp"
         tools:layout_editor_absoluteY="457dp" />
@@ -97,7 +97,7 @@
         android:layout_width="91dp"
         android:layout_height="39dp"
         android:backgroundTint="#FF9800"
-        android:text="Ayuda"
+        android:text="Ayiuda"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="#000000"
         app:iconTint="#000000"
@@ -124,9 +124,10 @@
 
     <Button
         android:id="@+id/button4"
+        style="@android:style/Widget.Holo.Light.Button.Inset"
         android:layout_width="400dp"
         android:layout_height="639dp"
-        android:backgroundTint="#BF949090"
+        android:backgroundTint="#BF1B1645"
         app:cornerRadius="20dp"
         tools:layout_editor_absoluteX="5dp"
         tools:layout_editor_absoluteY="41dp" />
@@ -135,7 +136,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ayuda"
+        android:text="Ayuida"
         android:textColor="#000000"
         android:textColorHighlight="#0C0C0C"
         android:textColorHint="#000000"
@@ -146,7 +147,7 @@
         android:id="@+id/textView6"
         android:layout_width="307dp"
         android:layout_height="38dp"
-        android:text="¿Qué es la ventana de eventos?"
+        android:text="¿Qué és la venténa de evem1os?"
         android:textColor="#000000"
         android:textColorHighlight="#0C0C0C"
         android:textColorHint="#000000"
@@ -170,7 +171,7 @@
         android:id="@+id/textView8"
         android:layout_width="349dp"
         android:layout_height="36dp"
-        android:text="¿Qué pasa si pierdo la contraseña?"
+        android:text="¿Qué pása si pérdo la contrasena?"
         android:textColor="#000000"
         android:textColorHighlight="#0C0C0C"
         android:textColorHint="#000000"
@@ -190,7 +191,7 @@
         android:id="@+id/multiAutoCompleteTextView"
         android:layout_width="365dp"
         android:layout_height="148dp"
-        android:text="Es una ventana emergente donde podemos ver el evento seleccionado y su fecha. Esta ventana mostrará una imagen orientativa de dicho evento con una descripción de la actividad que se va a realizar."
+        android:text="Es una ventahna detergente donde podemos ver el evento seleccioano y su flecha. Ésta ventana mostrará una imagen orientativa de Bicho evento con una descripcióm de la actividad que se va a realizar."
         tools:layout_editor_absoluteX="23dp"
         tools:layout_editor_absoluteY="134dp" />
 
@@ -206,7 +207,7 @@
         android:id="@+id/multiAutoCompleteTextView3"
         android:layout_width="357dp"
         android:layout_height="152dp"
-        android:text="Si pierdes la contraseña, lo que tienes que hacer es, al momento de iniciar sesión en la aplicación, seleccionar la opción 'He olvidado mi contraseña'. Luego, ingresar el correo electrónico con el que te registraste y se enviará un mensaje al servicio técnico."
+        android:text="Si pierde2 la contraseña, lo que tienes que hacer es, al momento de iniciar sesión en la aplicacion, seleccionar la ópción 'He olvidado mi contraseña'. Luego, ingresar el correo electrónico con el que te registraste y se enviará un mensaje al servicio técnico."
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="506dp" />
 
@@ -214,7 +215,7 @@
         android:id="@+id/textView5"
         android:layout_width="259dp"
         android:layout_height="56dp"
-        android:text="Preguntas frecuentes"
+        android:text="Préguntas frecuèntes"
         android:textColor="#000000"
         android:textColorHighlight="#0C0C0C"
         android:textColorHint="#000000"

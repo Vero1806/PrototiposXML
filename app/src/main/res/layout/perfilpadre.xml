@@ -12,7 +12,7 @@
         android:layout_marginBottom="100dp"
         android:alpha="100"
         android:background="#B3FFFFFF"
-        android:backgroundTint="#B3FFFFFF"
+        android:backgroundTint="#2196F3"
         android:visibility="gone"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -86,6 +86,7 @@
 
     <Button
         android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button.Small"
         android:layout_width="134dp"
         android:layout_height="49dp"
         android:backgroundTint="#3F51B5"
@@ -97,6 +98,7 @@
 
     <Button
         android:id="@+id/button5"
+        style="@style/Widget.AppCompat.Button.Small"
         android:layout_width="91dp"
         android:layout_height="39dp"
         android:backgroundTint="#FF9800"

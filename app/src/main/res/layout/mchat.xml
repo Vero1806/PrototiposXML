@@ -91,7 +91,7 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="59dp"
+        android:layout_width="98dp"
         android:layout_height="67dp"
         tools:layout_editor_absoluteX="62dp"
         tools:layout_editor_absoluteY="487dp"
@@ -186,8 +186,8 @@
     <EditText
         android:id="@+id/editTextText2"
         android:layout_width="225dp"
-        android:layout_height="43dp"
-        android:ems="10"
+        android:layout_height="40dp"
+        android:ems="18"
         android:inputType="text"
         android:text="Profesor 3"
         tools:layout_editor_absoluteX="167dp"
@@ -237,7 +237,7 @@
 
     <ImageView
         android:id="@+id/imageView11"
-        android:layout_width="241dp"
+        android:layout_width="500dp"
         android:layout_height="247dp"
         app:srcCompat="@drawable/logo1"
         tools:layout_editor_absoluteX="-74dp"
